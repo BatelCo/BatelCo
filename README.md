@@ -20,3 +20,8 @@ Here are some ideas to get you started:
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BatelCo&theme=buefy&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  -->
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BatelCo&theme=dark&background=000000)](https://git.io/streak-stats)
+
+How to reach me:
+<br><br>
+ <a href="https://www.linkedin.com/in/www.linkedin.com/in/cohen-batel/" title="Linkedin"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <br>
